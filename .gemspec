@@ -1,0 +1,1 @@
+gem 'discordrb', :github => 'meew0/discordrb'
